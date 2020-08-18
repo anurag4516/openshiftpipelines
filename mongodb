@@ -1,0 +1,1 @@
+oc new-app centos/mongodb-36-centos7 -e MONGODB_USER=admin MONGODB_DATABASE=mongodb MONGODB_PASSWORD=secret MONGODB_ADMIN_PASSWORD=super-secre
